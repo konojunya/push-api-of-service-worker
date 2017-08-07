@@ -1,0 +1,16 @@
+{
+    "name": "Notification test",
+    "short_name": "PushAPI Test",
+    "icons": [
+        {
+            "src": "/img/hasikan.jpg",
+            "sizes": "144x144",
+            "type": "image/jpeg"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#e91e63",
+    "gcm_sender_id": "874604632443",
+    "gcm_user_visible_only": true
+}
